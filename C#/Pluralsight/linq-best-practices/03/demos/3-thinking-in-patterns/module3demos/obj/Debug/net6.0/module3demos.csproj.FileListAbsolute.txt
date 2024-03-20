@@ -1,0 +1,15 @@
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\module3demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\module3demos.AssemblyInfoInputs.cache
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\module3demos.AssemblyInfo.cs
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\module3demos.csproj.CoreCompileInputs.cache
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\module3demos.sourcelink.json
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\bin\Debug\net6.0\module3demos.exe
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\bin\Debug\net6.0\module3demos.deps.json
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\bin\Debug\net6.0\module3demos.runtimeconfig.json
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\bin\Debug\net6.0\module3demos.dll
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\bin\Debug\net6.0\module3demos.pdb
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\module3demos.dll
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\refint\module3demos.dll
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\module3demos.pdb
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\module3demos.genruntimeconfig.cache
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\03\demos\3-thinking-in-patterns\module3demos\obj\Debug\net6.0\ref\module3demos.dll

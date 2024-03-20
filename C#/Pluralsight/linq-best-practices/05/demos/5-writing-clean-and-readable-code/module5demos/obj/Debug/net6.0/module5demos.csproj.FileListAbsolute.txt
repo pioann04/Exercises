@@ -1,0 +1,15 @@
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\bin\Debug\net6.0\module5demos.exe
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\bin\Debug\net6.0\module5demos.deps.json
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\bin\Debug\net6.0\module5demos.runtimeconfig.json
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\bin\Debug\net6.0\module5demos.dll
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\bin\Debug\net6.0\module5demos.pdb
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\module5demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\module5demos.AssemblyInfoInputs.cache
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\module5demos.AssemblyInfo.cs
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\module5demos.csproj.CoreCompileInputs.cache
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\module5demos.sourcelink.json
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\module5demos.dll
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\refint\module5demos.dll
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\module5demos.pdb
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\module5demos.genruntimeconfig.cache
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\05\demos\5-writing-clean-and-readable-code\module5demos\obj\Debug\net6.0\ref\module5demos.dll

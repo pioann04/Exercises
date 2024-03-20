@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "36bCKJj3yfItGTmHcTtWTx1W2PmM3EJ/yCTi0yj+vW6o5MW+VjM9Ih8YI0TJZiBu2NXKbr/s5riPPWzI5odGug==",
+  "success": true,
+  "projectFilePath": "C:\\Mine\\Exercises\\C#\\Pluralsight\\linq-best-practices\\04\\demos\\4-unleashing-the-power-of-pipelines\\module4demos\\module4demos.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://localhost:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

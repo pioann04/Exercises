@@ -1,0 +1,15 @@
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\module4demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\module4demos.AssemblyInfoInputs.cache
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\module4demos.AssemblyInfo.cs
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\module4demos.csproj.CoreCompileInputs.cache
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\module4demos.sourcelink.json
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\bin\Debug\net6.0\module4demos.exe
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\bin\Debug\net6.0\module4demos.deps.json
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\bin\Debug\net6.0\module4demos.runtimeconfig.json
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\bin\Debug\net6.0\module4demos.dll
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\bin\Debug\net6.0\module4demos.pdb
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\module4demos.dll
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\refint\module4demos.dll
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\module4demos.pdb
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\module4demos.genruntimeconfig.cache
+C:\Mine\Exercises\C#\Pluralsight\linq-best-practices\04\demos\4-unleashing-the-power-of-pipelines\module4demos\obj\Debug\net6.0\ref\module4demos.dll
