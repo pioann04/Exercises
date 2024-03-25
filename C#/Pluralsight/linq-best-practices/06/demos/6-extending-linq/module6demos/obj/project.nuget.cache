@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IT+rNS3wVP65vNNjGmUSvXG+oMsaK0AjcqDSxtKRe8Qy40csg3oFjiSb7kbmbPXGSLxGU38DuaLvP/u50blJJw==",
+  "success": true,
+  "projectFilePath": "C:\\Mine\\Exercises\\C#\\Pluralsight\\linq-best-practices\\06\\demos\\6-extending-linq\\module6demos\\module6demos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p.ioannou\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://localhost:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
